@@ -1,0 +1,1 @@
+Weather in Paris: +18°C
