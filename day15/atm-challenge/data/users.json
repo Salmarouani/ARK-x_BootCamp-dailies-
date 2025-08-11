@@ -1,0 +1,93 @@
+[
+  {
+    "accountID": "ACC1001",
+    "name": "salma",
+    "pin": "8511",
+    "balance": 160,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 160,
+        "date": "2025-08-10T02:00:16.057Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1002",
+    "name": "Saad",
+    "pin": "7492",
+    "balance": 40000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 50000,
+        "date": "2025-08-10T02:01:38.094Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 10000,
+        "date": "2025-08-10T02:01:47.725Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1003",
+    "name": "Salma Marouani",
+    "pin": "9268",
+    "balance": 98201,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 100000,
+        "date": "2025-08-10T02:08:56.652Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 299,
+        "date": "2025-08-10T02:09:10.091Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 500,
+        "date": "2025-08-10T02:09:37.321Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 500,
+        "date": "2025-08-10T02:09:45.720Z"
+      },
+      {
+        "type": "withdraw",
+        "amount": 500,
+        "date": "2025-08-10T02:10:04.322Z"
+      }
+    ]
+  },
+  {
+    "accountID": "ACC1004",
+    "name": "ACC1003",
+    "pin": "4640",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACC1005",
+    "name": "salma",
+    "pin": "3478",
+    "balance": 0,
+    "transactions": []
+  },
+  {
+    "accountID": "ACC1006",
+    "name": "Salma",
+    "pin": "9116",
+    "balance": 10000,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 10000,
+        "date": "2025-08-11T01:18:46.311Z"
+      }
+    ]
+  }
+]
