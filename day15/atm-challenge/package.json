@@ -5,7 +5,9 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "go"  :"node src/index.js"
+
   },
   "dependencies": {
     "body-parser": "^2.2.0",

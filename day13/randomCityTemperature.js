@@ -26,6 +26,7 @@ async function getWeather(city){
     try{
         const response = await fetch(url);
         const data = await response.json();
+  
 
         const temperature = data.current_weather.temperature;
         console.log(`The current temperature in ${city.name} is ${temperature}°C`);

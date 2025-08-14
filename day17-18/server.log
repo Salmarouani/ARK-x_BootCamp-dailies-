@@ -1,0 +1,7 @@
+[2025-08-14T18:46:45.530Z] GET /
+[2025-08-14T18:46:45.535Z] GET / -> 404 Route not found
+[2025-08-14T18:46:54.451Z] GET /error
+[2025-08-14T18:46:54.453Z] GET /error -> 404 Route not found
+[2025-08-14T18:47:30.437Z] GET /cause-error
+[2025-08-14T18:47:30.440Z] GET /cause-error -> 500 Intentional test error
+[2025-08-14T18:47:50.901Z] GET /products
